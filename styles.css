@@ -103,9 +103,8 @@ a:focus-visible,button:focus-visible,summary:focus-visible,.paginas:focus-visibl
 .voltar{display:inline-block;margin-bottom:20px;color:var(--cobalto);font-weight:700;text-decoration:none}
 footer a{color:inherit}
 .aviso{margin-top:10px;padding:9px 11px;background:#FFF2C9;color:#553B00;font-size:14px}
-.metodos{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin-top:15px}
-.metodos span{padding:4px 9px;border:1px solid var(--rejunte);font-size:12.5px}
-.metodos.por-confirmar span{border-style:dashed;border-color:#C58A00}
+.metodos{margin-top:15px;text-align:center;font-size:13.5px;line-height:1.45;color:var(--suave)}
+.metodos.por-confirmar{border-bottom:2px dashed #C58A00}
 .garantia{margin-top:14px;text-align:center;font-size:14.5px;color:var(--suave)}
 
 .faq{background:var(--branco);padding:54px 0}
